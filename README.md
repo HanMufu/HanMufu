@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=hanmufu.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hanmufu.github.io/home/about/)
 
-## I'm a Student, Developer and Doer!!
+## I'm a Student and Developer!!
 
 - 🌱 I’m currently working on ETL (AWS Glue) at IDT Corporation as an intern
 - 🥅 2021 Goals: World peace and get a full-time job!
-- ⚡ Fun fact: I love to ski if I can do parallel turning
+- ⚡ Fun fact: My last meal on Earth would be eating Haidilao with XIAOYANG SHENGJIAN
 
 ### Connect with me:
 
